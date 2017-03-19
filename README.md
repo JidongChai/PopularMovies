@@ -1,5 +1,6 @@
 # Popular Movies
 
 Android app for display movies.
-
-## Skill used
+- Build a UI layout for multiple Activities.
+- Launch these Activities via Intent.
+- Fetch data from themovieDB API
